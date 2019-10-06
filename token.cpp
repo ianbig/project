@@ -22,7 +22,6 @@ wstring stmp;
 void data_to_sentence(FILE *);
 void parse(wchar_t*,wchar_t*);
 wchar_t* mystrtok(wchar_t*,const wchar_t*);
-wchar_t* convert(const char*);
 
 
 int main()
